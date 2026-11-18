@@ -1,3 +1,9 @@
+# Data
+*.csv
+*.pqt
+*.cbm
+*.pdf
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
@@ -8,6 +14,8 @@ __pycache__/
 
 # Distribution / packaging
 .Python
+catboost_info/
+data/
 build/
 develop-eggs/
 dist/
